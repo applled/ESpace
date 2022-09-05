@@ -1,7 +1,7 @@
 # ESpace
 Entertainment Space do Google para celular
 
-![Image](https://telegra.ph/file/a17841aa761a64441979b.png)
+![Image](https://telegra.ph/file/ec8d9ad2f1690dbd40baa.png)
 
 
 
